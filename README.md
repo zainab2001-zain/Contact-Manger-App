@@ -22,7 +22,7 @@ The Contact Manager App is a mobile application designed to help users save and 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/zainab2001-zain/SQLiteCrud.git
+   git clone https://github.com/zainab2001-zain/Contact-Manger-App.git
    ```
 
 2. Open the project in your preferred IDE or text editor.
